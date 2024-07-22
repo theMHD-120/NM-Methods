@@ -1,5 +1,5 @@
-# Numerical Computing Methods
->>> NCM formulas - Spring 2023
+# Numerical-Computing-Formulas
+>>> Numerical Computing Methods - Spring 2023
 
 ||| In the name of Allah ||| <br />
 --------------------------- <br />
