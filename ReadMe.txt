@@ -1,8 +1,6 @@
-# Numberical Computing Methods
+||| In the name of Allah |||
 
-||| In the name of allah |||
-
-implementing some numerical computing methods with python and some python libraries.
+implementation of serveral numerical computing methods with Python and some of its libraries.
 
 Symbols guide:
     CH --> Chapter
